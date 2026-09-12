@@ -83,5 +83,3 @@ Este projeto possui finalidade exclusivamente **educacional**, sendo utilizado c
 
 **Professor Diego Antonio**
 Material desenvolvido para fins educacionais.
-
-```
