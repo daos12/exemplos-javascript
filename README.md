@@ -85,6 +85,3 @@ Este projeto possui finalidade exclusivamente **educacional**, sendo utilizado c
 Material desenvolvido para fins educacionais.
 
 ```
-
-Esse README está alinhado inclusive aos exemplos práticos enviados, nos quais os alunos trabalham com botões para **alterar texto, mudar estilos, esconder/mostrar conteúdo e capturar dados digitados pelo usuário**. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
-```
